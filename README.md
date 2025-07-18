@@ -76,19 +76,31 @@ Musician Booking/
 ├── .gitignore
 ├── README.txt
 
-## Screenshots
+## 📸 Screenshots
 
-### 1. Homepage
-![Homepage](screenshots/6284803e-e52c-4ea9-939d-48981da00103.png)
+### 🔐 Login Page
+![Login Page](screenshots/login.jpg)
 
-### 2. Register Page
-![Register](screenshots/0aef6d29-931e-4aa1-8749-8b5c3a8c3979.png)
+---
 
-### 3. Login Page
-![Login](screenshots/2a5e9c67-a1d0-49e3-8317-e2750c797232.png)
+### 🎤 Artists List
+![Artists List](screenshots/artists.jpg)
 
-### 4. Booking Page
-![Booking](screenshots/c8961437-ab00-4e09-8824-f5f5b83cb1a3.png)
+---
+
+### 📅 Booking Page
+![Booking Page](screenshots/bookings.jpg)
+
+---
+
+### 📊 Dashboard Overview
+![Dashboard Overview](screenshots/dashboard.jpg)
+
+---
+
+### 📈 Dashboard Analytics
+![Dashboard Analytics](screenshots/dashboard2.jpg)
+
 
 
 Author
