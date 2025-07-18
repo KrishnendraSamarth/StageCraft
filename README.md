@@ -78,11 +78,31 @@ Musician Booking/
 
 Screenshots
 -----------
+## 📸 Screenshots
 
+### 🔐 Login Page
+![Login](login.jpg)
 
-[ Insert artist profile screenshot here ]
+---
 
-[ Insert booking page screenshot here ]
+### 🎤 Artists List
+![Artists](artists.jpg)
+
+---
+
+### 📅 Booking Page
+![Bookings](bookings.jpg)
+
+---
+
+### 📊 Dashboard Overview
+![Dashboard](dashboard.jpg)
+
+---
+
+### 📈 Dashboard Analytics
+![Dashboard 2](dashboard2.jpg)
+
 
 Author
 ------
